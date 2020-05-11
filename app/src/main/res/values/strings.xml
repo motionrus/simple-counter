@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="textView">0</string>
+    <string name="increase">increase</string>
+    <string name="decrease">decrease</string>
+    <string name="clear">clear</string>
+</resources>
